@@ -6,3 +6,5 @@
 
 ### Activity description
   The objective of this activity is to put into practice what I have learned about HTML so far.
+
+  Acesso em: [Activity_03](https://653bfd33ed92806fa56a9898--lucky-jelly-4eed38.netlify.app/)
